@@ -37,3 +37,24 @@ August 28:
 2. radius = 3.8 height 5.6 find area of cone (1/3 pi r * r * h) (properly commented , documented )
 3. input function, range, int, float, bool, str ==> inbuilt functions (https://docs.python.org/3/library/functions.html)
 
+August 29:
+
+1. Get radius (int) and height (float) from user using input function
+   Find the area of cylinder pi r*r h 
+   Print area output in integer with formatted output
+
+2. Area of the circel and circumference:
+
+area pi r * r   cicr  2 pi r
+collect radius from user as integer
+print area (int) in formatted way
+print circumference in string format in formatted way
+
+3. round function 3.99999 ===> round function
+4.98 ===> study about round function
+
+4. String indexing or indices in python (Study)
+
+https://realpython.com/python-strings/
+https://realpython.com/lessons/string-indexing/
+
