@@ -84,4 +84,20 @@ print(a[-5:-3:20])
 "Information_technology"
 "Google_chrome_browser"
 
+September 7:
+
+1) Get one string from the user
+   Identify the middle character of the string
+   
+2) Get two characters from user  example: "java" "groovy"
+   java6groovy4
+   
+   "pi" "mathematics"  ===> pi15mahematics2
+   
+3) Get two characters from user "java" "gokul"
+   j2ag3l
+   
+   "science" "social"
+   s5es4l
+
 
