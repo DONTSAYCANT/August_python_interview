@@ -94,10 +94,60 @@ September 7:
    
    "pi" "mathematics"  ===> pi15mahematics2
    
-3) Get two characters from user "java" "gokul"
+September 8
+   
+1) Get two characters from user "java" "gokul"
    j2ag3l
    
    "science" "social"
    s5es4l
+   
+ 2) Get three strings from user
+ 
+ maths  science  tamil  ===> mtsseetml ==> Concatenation of first letter,middle letter and last letter from all the three strings
+ 
+ 3) https://www.w3schools.com/python/python_ref_string.asp
+
+4) Get two values (input) ===> number, string
+
+#7 , "python" ===> pythonpythonpythonpythonpythonpythonpython777777
+
+#3 , "perl"   ===> perlperlperl3333
+
+5) 
+
+#get two strings from user  computer science  ==> input 
+
+#step 1 ==> comPuter  sciEnce
+
+#step 2 ===> concatenate both ==> comPutersciEnce
+
+#step 3 ===> comPuteRsciEnce
+
+6)
+
+#Get one string (Captial) ==> PYTHON
+#Convert middle letter of the string in to small
+
+PYThON
+
+7) Get one string from user:
+
+python   ===> PythoN  (convert first and last char to captial)
+
+
+========================
+
+September 9
+
+1)  Get two values (input) ===> string, number
+
+#computer_science, 3 ===> mocputer_scieecn
+
+#biology , 2  ===> iboloyg
+
+#capital programs strings
+
+
 
 
