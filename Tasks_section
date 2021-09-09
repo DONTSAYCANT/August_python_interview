@@ -140,7 +140,7 @@ python   ===> PythoN  (convert first and last char to captial)
 
 September 9
 
-1)  Get two values (input) ===> string, number
+1)  Get two values (input) ===> string, integer
 
 #computer_science, 3 ===> mocputer_scieecn
 
@@ -148,6 +148,26 @@ September 9
 
 #capital programs strings
 
+2)
+"Information_Technology"
 
+#[-2:0:-1]
+#[5:-5:5]
+#[-5:5:-5]
+#[5:-5:-5]
+#[3:9:-1]
+#[9:-10:-2]
+#[2:-4:-4]
+#[-4:2:-2]
+#[0:-1:-3]
+#[-3:3:6]
+#[::-3]
+#[::-2]
+#[2:-2:-2]
+#[2:-2:2]
+#[5:-5:5]
+#[3:-3:3]
+#[::2]
+#[::-5]
 
 
