@@ -178,3 +178,77 @@ https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&filter
 
 
 
+
+September 13
+
+
+Task1:
+
+Get one string from user:
+
+python  ====> ptoyhn
+java  ===> jvaa
+groovy  ===> govroy
+
+
+Task2:
+
+"python_is_using_interpreter"
+
+#[-2:0:-1]
+#[5:-5:5]
+#[-5:5:-5]
+#[5:-5:-5]
+#[3:9:-1]
+#[9:-10:-2]
+#[2:-4:-4]
+#[-4:2:-2]
+#[0:-1:-3]
+#[-3:3:6]
+#[::-3]
+#[::-2]
+#[2:-2:-2]
+#[2:-2:2]
+#[5:-5:5]
+#[3:-3:3]
+#[::2]
+#[::-5]
+
+#Task3:
+
+string1:  master
+string2:  python
+
+Output:  mason  (Concatenation of first part of string1 + second part od string 2)
+
+
+string1: encyclopedia
+string2: social
+
+output: encyclal
+
+
+#Task4:
+
+string1: animal
+string2: hello
+
+output:   nael
+
+string1: india
+string2: python
+
+output: niyo
+
+#Task5:
+
+string1: wikipedia
+string2: typescript
+
+output: p  +  c   ===> ascii value of p + ascii value of c  ====>  198
+
+
+
+
+
+
