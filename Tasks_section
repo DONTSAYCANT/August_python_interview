@@ -248,6 +248,65 @@ string2: typescript
 output: p  +  c   ===> ascii value of p + ascii value of c  ====>  198
 
 
+September 16:
+
+
+Task1:
+
+string1: python
+String2: java
+
+output ===> jythonpava64hv
+
+Task2:
+
+string1: ***python***
+string1: **python********
+string: ********java*******
+
+
+output: python  (strip method )
+https://www.w3schools.com/python/ref_string_strip.asp
+
+Task3:
+
+int1: 123
+int2: 456
+
+output: 123456579 
+
+
+Task4:
+
+String1: python  ==> h  ===> ascii value
+Int1: 100  ==> D
+
+string1 ==> middle character's ascii value
+int ===> letter
+
+105D
+
+
+Task5: (name<space>float)
+
+string1: "ravi 10.30"  
+string2: "meghala 12.19"
+string3: "Gokul 20.20"
+
+split + indexing
+
+10.30 + 12.19 + 20.20 ===> output ===> round (42.69000) 5 decimal places should be
+
+https://www.w3schools.com/python/ref_string_strip.asp
+
+
+
+
+
+
+
+
+
 
 
 
