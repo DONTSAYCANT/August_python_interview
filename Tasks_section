@@ -348,7 +348,24 @@ September 23:
 
 https://www.w3schools.com/python/python_ref_dictionary.asp
 
+September 24:
+
+Li1 = [2,3,4,5,[45,56,67,78,[111,222,333,[5555,3333,[10000,50000,"python","computer"],1111,7777,8888],444,555,666,777],89,23,34]]
 
 
+5
+56
+222
+50000
+put
+5555
+7777
+666
+89
+on
+333
+3333
+
+https://github.com/DONTSAYCANT/Python_concepts/blob/master/Basic%20Datastructures%20and%20List%20Methods.ipynb
 
 
