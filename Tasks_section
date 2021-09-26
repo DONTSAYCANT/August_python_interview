@@ -369,3 +369,101 @@ on
 https://github.com/DONTSAYCANT/Python_concepts/blob/master/Basic%20Datastructures%20and%20List%20Methods.ipynb
 
 
+September 26
+
+Task1
+
+List
+
+#Create an empty list
+#Concatenate with [5,6,7,8,10]
+#add 8,3,4,4,10,9,1,5,6,7,8,1 elements to that list
+#Find frequency of 8 (count) and index of 10
+#find the mean of the list
+#find sum (List) + min + Max 
+#Find median of the list
+#remove duplicates from list and give output in the format of tuple
+#convert to tuple and set
+
+Task2
+
+
+a = [1,2,3,4,[100,101,102,"Computer_science"],200,203]
+
+Extract
+#science
+#computer
+
+Task3
+a = [1,2,3,4,[101,102,103,[201,202,[999]], 666, 777]]
+
+Extract
+#666
+#201
+#102
+#999
+#777
+
+
+Task4:
+
+Li1 = [2,3,"python","hello",4,5,0]  
+
+Extract
+#ll
+#thon
+
+Task5
+Li1 = [1,2,3,4,5,[11,22,33,44,55,[111,222,333,444],6666,7777],7777]
+
+Output Prediction 
+
+print(Li1[5][0])
+print(Li1[5][6])
+print(Li1[5][-2])
+print(Li1[5][7])
+print(Li1[6])
+print(Li1[5][5][1])
+
+print(Li1[-2][-1])
+
+
+print(Li1[2][2:4])
+
+Task6: Tuple
+
+#Create two tuples (1,4,5,6,7,8) (5,6,7,8,9)
+#Find the common elements between two tuples
+#Concatenate both tuples and remove duplicates from tuple
+#Find the index value of 9 (after concatenation)
+#multiply above elements 3 times
+
+Task7: Sets
+
+#Create two empty sets
+#update set1 with 7,8,9,1,2,3,4,5,0
+#update set2 with 4,5,6,0
+#check whether set2 is subset of set1 or no ?
+#check whether both have common elements are no ?
+#remove 8 from set 1 and set 2 ==> find the inferences
+#discard 0 from set1 and set2 
+#find collection of both sets ===> set1 and set2
+
+Task8:
+
+ Dictionary:
+
+#create a dictionary
+#{1:["english","maths","science"], 2:[10,20,30], 3:["bio-botany","bio-zoology","Algebra"]}
+#Extract "bobtn" from above dictionary
+#Extract "arbeg" from above dictionary
+#print all keys in dictionary and convert it into tuple
+#Find the average of all numbers available under key "2"
+
+Task9
+
+Difference between list tuple set dictionary
+
+Task10
+
+Study about all data structures and methods in detail (list tuple set dictionary)
