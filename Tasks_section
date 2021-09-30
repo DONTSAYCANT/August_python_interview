@@ -584,5 +584,46 @@ September 30:
 https://www.w3schools.com/python/python_for_loops.asp
 https://www.w3schools.com/python/python_while_loops.asp
 
+physics chemistry maths
+
+cutoff = phy/4 + chem/4 + maths/2
+
+college selection
+
+70-100 ===> college 5
+100-125 ==> college 4
+125 - 150 ==> college 3
+150-190 ==> college 2
+cutoff ===> 190-200 ==> college1
+
+Others: Not eligible (0-70)
+Others: < 0 or > 200 ===> Invalid mark
+
+any one subject 200 : bronze medal
+any two subject 200 : silver medal
+all the three : gold medal
+
+<70 in any one subject ===> no college, no cutoff, no grade
+
+199, 199, 199  
+
+Valid mark
+pass mark
+cutoff mark: 199
+No medal
+College 1
+
+200 200 60
+
+Valid mark
+Fail mark
+Cutoff mark: No cutoff
+No medal
+No college
+
+205 100 105
+
+Invalid mark
+
 
 
