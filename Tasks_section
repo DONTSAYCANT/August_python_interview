@@ -628,15 +628,53 @@ Invalid mark
 
 October 2:
 
-Find data type based on input from user
+#Task1:
 
-Armstrong number check
+#Armstrong number check
 
-median calculation (based on odd/even)
+i) get one 3 digit number from user (100-999)
+
+ii) print armstrong or no
+
+153 == 1^3 + 5^3 + 3^3 == 1+125+27
+
+152 == 1^3 + 5^3 + 2^3 != 134
+
+108
+
+370 ==> 27 + 343 + 0 ==> 370
+
+Task2:
+Li1 = [2,3,4,5,6,7,10,11,12,15,2,10000]
 
 
+even
+i) sort() [2, 2, 3, 4, 5, 6, 7, 10, 11, 12, 15, 10000]
+ii) Find two middle numbers 6,7
+ii) average of two numbers 6.5
 
+Odd
 
+i) sort() [2, 2, 3, 4, 5, 6, 7, 10, 11, 12, 15, 10000]
+ii) [2, 2, 3, 4, 5, 6, 7, 10, 11, 12, 14, 15, 10000]
+7
+
+Li2 = [2,3,4,5,6,7,10,11,12,15,2,10000,14]
+
+Task3:
+
+ Write a Python program to convert month name to a number of days.
+
+Get one month from user
+
+April ==> 30
+gggg ==> Invalid month valid month
+feb ==> 28  ? 
+
+please enter year ? 
+
+%4 ==> leap year 2004 2008 2012 2100==> not leap year
+2000 2100 2200 2300 2400 2500 ==> multiplied by 400 also 
 
 
 
