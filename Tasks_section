@@ -736,6 +736,21 @@ elif:
 else
 
 
+Task1:
+
+#Using while loop print multiples of 5 from 10 to 75
+#Using while loop print multiples of 8 from 100 to 72
+
+#Using for loop print multiples of 5 from 10 to 75
+#Using for loop print multiples of 8 from 100 to 72
+
+Task2:
+
+https://www.w3schools.com/python/python_for_loops.asp
+https://www.w3schools.com/python/python_while_loops.asp
+https://github.com/DONTSAYCANT/python_may_june_batch/blob/main/Loops%20.ipynb
+
+
 
 
 
