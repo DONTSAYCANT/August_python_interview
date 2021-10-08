@@ -758,6 +758,14 @@ Task2:
 
 Multiple index with list value 
 
+[2,5,6,8,12,13]
+
+2*0 + 5*1 + 6*2 + 8*3 + 12*4 + 13*5 ==> 
+
+[2,5,6,8,12,13,2,2,0]
+
+[1,1,1]
+
 
 Task3:
 
@@ -782,6 +790,16 @@ Task5:
 
 Get two integers from user
 print multiples of 8 between them
+
+clues:
+Use range function in for loop
+Use if condition inside for loop
+add in to list
+
+input 10 100
+multiples of 8
+
+[16,24,32.....,96]
 
 #Task 6:
 
