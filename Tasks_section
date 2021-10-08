@@ -746,17 +746,77 @@ Task1:
 #Using Range function  print multiples of 5 from 75 to 0
 #Using Range function  print multiples of 8 from 96 to 72
 
-Task2:
+October 8:
+
+Task1:
 
 https://www.w3schools.com/python/python_for_loops.asp
 https://www.w3schools.com/python/python_while_loops.asp
 https://github.com/DONTSAYCANT/python_may_june_batch/blob/main/Loops%20.ipynb
 
+Task2:
+
+Multiple index with list value 
 
 
+Task3:
+
+Get a dynamic list from user
+
+Task4:
+
+Get a dynamic dictionary from user
+
+clues Task3 and Task4
+#1. get number of elements from user
+#Loop through range
+#append to list/dictionary
 
 
+a = int(input("enter number of elements"))
 
+for i in range(a):
+    val = int(input("enter element"))
+
+Task5:
+
+Get two integers from user
+print multiples of 8 between them
+
+#Task 6:
+
+Input:
+Li1 = [3,4,5,2,7,8,9,10]
+
+Output:
+Li_odd = [3,5,7,9]
+Li_even = [4,2,8,10]
+
+#Li1 = [3,4,5,2,7,8,9,10]
+
+#Clue
+
+for i in Li1:
+    print(i)
+    if i % 2 == 0:
+        print("EVEN")
+    else:
+        print("ODD")
+        
+Task7:
+
+Input: [-1, -7,8,10,20,21,17,28,-3,0,0,]
+    
+Output:
+neg_LI = [-1,-7,-3]
+pos_LI = []
+Zeros = []
+
+Numeber of postivie ele: 7
+Number nega: 3
+Number of zeros: 2
+
+CLue: previous program and len function
 
 
 
