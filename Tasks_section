@@ -836,6 +836,89 @@ Number of zeros: 2
 
 CLue: previous program and len function
 
+September 10:
+
+Task1:
+
+Study range function and for loop properly
+
+https://www.w3schools.com/python/python_for_loops.asp
+https://www.w3schools.com/python/python_while_loops.asp
+https://github.com/DONTSAYCANT/python_may_june_batch/blob/main/Loops%20.ipynb
+
+print(list(range(5)))
+print(list(range(1,5)))
+print(list(range(5,20)))
+print(list(range(-5,5)))
+print(list(range(10,100,10)))
+print(list(range(10,0,-1)))
+print(list(range(-5,5,3)))
+print(list(range(10,100,5)))
+print(list(range(10,0,-2)))
+
+Task2:
+
+Get list of strings from user
+separate it in to two lists with vowles and non vowels 
+
+["hi","ggg","hello","ravi","bbbb","zzz","yyyy"]
+
+No of elements with vowel: 4
+No of elements without vowel: 3
+
+
+Task3:
+
+Get list of strings from user
+separate it two list (with same first letter and last letter and othr)
+
+["garg", "kohli", "rohitr", "ishan", "dhoni","dad"]
+
+No of elements with same first letter and last letter: 3
+Other List: 3
+
+
+Task4:
+
+Get a list of numbers from user
+separate it in to even number and odd number (you should create only one empty list)
+
+
+Task5: 
+
+fibonacci series
+
+0,1,1,2,3,5,8,13,21,34,55,89,144
+
+get one input from user: 5
+
+[0,1,1,2,3]
+3
+
+user: 8
+
+[0,1,1,2,3,5,8,13]
+13
+
+[0,1,1,2,3]
+
+Task6:
+
+No range function  
+
+Multiples of 10 between 12 to 100 using while loop
+Multiples of 8 between 120 to 20 using while loop
+Multiples of 5 between 9 to 40 using while loop
+Multiples of 8 between 300 to 200 using while loop
+
+
+
+
+
+
+
+
+
 
 
 
