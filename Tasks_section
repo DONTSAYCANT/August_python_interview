@@ -1002,6 +1002,11 @@ Task16:
 #top
 #pto
 
+Task17:
+
+get list of strings from user
+categorize it in to even/odd length list using single loop
+
 
 October 17:  Test 1 (50 marks == 25 MCQ + 5 pgms)
 
