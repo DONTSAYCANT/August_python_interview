@@ -1006,7 +1006,6 @@ Task16:
 #top
 #pto
 
-{"top":"pot", }==> later explain
 
 Task17:
 
@@ -1019,6 +1018,40 @@ Program to check a number is prime or no
 
 
 October 17:  Test 1 (50 marks == 25 MCQ + 5 pgms)
+
+==================================================================================================
+October 13: Functions (26 programs)
+
+First complete 18 pgms
+
+Task1:
+
+Inbuilt functions (20 functions ===> 20 pgms)
+
+https://www.w3schools.com/python/python_ref_functions.asp
+https://docs.python.org/3/library/functions.html
+
+Task2:  (6 program)
+
+Get a integer from user
+Check whether integer is odd or even (using function)
+
+Get a integer from user
+Check whether integer is positive or negative or zero (using function
+
+Get a integer from user
+find factorial of the numbero (using function)
+
+Get a string from user
+Check whether string is armstrng  or no (using function)
+
+Get a integer from user
+Check whether integer is prime or no (using function)
+
+Get a string from user 
+check whether anagram o=r ni (using function)
+
+
 
 
 
