@@ -1051,6 +1051,13 @@ Check whether integer is prime or no (using function)
 Get a string from user 
 check whether anagram o=r ni (using function)
 
+=============================================================
+
+October 16:
+
+15 errors programs ==> apply try except for avoiding error
+https://docs.python.org/3/library/exceptions.html
+
 
 
 
