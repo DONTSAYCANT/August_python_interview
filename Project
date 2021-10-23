@@ -1,1 +1,15 @@
+#Miniproject:
 
+
+paper/stone/scissor ===>
+
+paper + stone ==>  paper
+paper + scissor ===> scissor
+
+stone + scissor ==> stone
+stone + paper ==> paper
+
+Scissor + stone ==> stone
+Scissor + paper  ==> scissor
+
+Computer + User 
