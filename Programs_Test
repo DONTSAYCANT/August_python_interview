@@ -1,0 +1,44 @@
+program1:
+
+get a list of numbers from users 
+print two lists as output prime number and non prime number 
+
+Input: [1,5,7,9,10,15,16]
+Output:
+Prime [5,7]
+Non prime [1,9,10,15,16]
+
+
+Program2:
+
+Get a number from user 
+
+input: 3
+
+3
+3 2
+3 2 1
+
+input: 2
+
+2
+2 1
+
+input: 4
+
+4
+4 3
+4 3 2
+4 3 2 1
+
+
+
+Program 3:
+
+
+Get two strings from users 
+
+
+
+
+
