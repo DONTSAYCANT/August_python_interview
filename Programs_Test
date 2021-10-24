@@ -35,8 +35,55 @@ input: 4
 
 Program 3:
 
+Get a list of strings from user
+["abb","ericsson","SAP","marvell"]
+Sort the list with out using sort function
 
-Get two strings from users 
+
+Program 4:
+
+{1: [30,40,50], 2:[110,120,130], 3:[-10,-3,-4], 4:[1,2,3,4], 10:[0,4,5,9,100]}
+
+     30              110              -10           1              0
+
+List: ==> minimum value
+Maximum value from min vlaue list       30              110              -10           1              0
+110
+
+
+
+Program 5:
+
+Get two list from user
+
+[2,3,4,5,6,6,6]
+[1,2,6,8,9,10,6]
+
+Find the common elements between two lists [2,6,6]
+
+
+Program 6:
+
+Get two strings from user 
+
+computer ==> find ascii value for each char ==> add everything
+Information ==>  find ascii value for each char  ==> add everything
+
+True Otherwise False
+
+
+Program7: 
+
+[3,4,5,6,7,10]
+
+Get one list from user
+Find min element and max element in the list without min max function
+
+
+
+
+
+
 
 
 
