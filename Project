@@ -28,3 +28,111 @@ user_input = input('please enter any one value "paper", "scissor", "stone"')
 Point: Computer: 5 User: 3 Tie: 2
                 
 Computer wins the game
+
+
+
+Project 2:
+
+
+
+Gokul:
+
+#Project 5: Quiz competition generator (json parsing) 
+    
+#w3 school python 
+
+https://www.geeksforgeeks.org/read-json-file-using-python/
+
+#data (question )  ==> json file
+
+{
+"Question 1":
+    "Question":"Which is immutable data structure",
+    "Option1": "List",
+    "Option2": "Tuple",
+    "Option3": "Dictionary",
+    "Correct answer": "Option 2"
+"Question 2":
+    "Question":"Which is mutable data structure",
+    "Option1": "Set",
+    "Option2": "List"
+    "Option3": "Dictionary",
+}
+
+#10, 25, 15
+#question answer explanation points
+#previous question
+
+#json
+#while if else
+ Quiz competition generator (json parsing) 
+    
+#w3 school python 
+
+#data (question )  ==> json file
+
+{
+"Question 1":
+    "Question":"Which is immutable data structure",
+    "Option1": "List",
+    "Option2": "Tuple",
+    "Option3": "Dictionary",
+    "Correct answer": "Option 2"
+"Question 2":
+    "Question":"Which is mutable data structure",
+    "Option1": "Set",
+    "Option2": "List"
+    "Option3": "Dictionary",
+}
+
+#10, 25, 15
+#question answer explanation points
+#previous question
+
+#json
+#while if else
+
+
+total_dict = {"Question 1":{"Question":"Which is immutable data structure","Option1": "List","Option2": "Tuple","Option3": "Dictionary","Correct answer": "Option 2"},"Question 2":{"Question":"Which is mutable data structure","Option1": "Set","Option2": "List","Option3": "Dictionary"}}
+
+#print(total_dict)
+
+print("welcome quiz")
+
+print("1.  ",total_dict["Question 1"]["Question"])
+
+
+
+
+Ravikumar
+
+whatsapp 
+Email
+
+Input: single excel file (SNO, Reg No, NAME, mobile number, email address, DOB, Address)
+
+pandas for reading file , csv 
+
+Message:
+
+Hi Ravi (Reg. No),
+
+Happy Diwali 2021 !
+
+two line message 
+
+
+Please confirm your address for sending gift:
+
+Address
+
+Thanks,
+
+email:
+whatsapp: 
+
+
+
+
+
+
