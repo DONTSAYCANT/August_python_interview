@@ -131,7 +131,24 @@ Thanks,
 email:
 whatsapp: 
 
+total_dict = {"Question 1":{"Question":"Which is immutable data structure","Option1": "List","Option2": "Tuple","Option3": "Dictionary","Correct answer": "Tuple"},"Question 2":{"Question":"Which is mutable data structure","Option1": "Set","Option2": "List","Option3": "Dictionary"}}
 
+#print(total_dict)
+
+print("welcome quiz")
+
+print("1.  ",total_dict["Question 1"]["Question"])
+print("Options1 : ",total_dict["Question 1"]["Option1"])
+print("Options2 : ",total_dict["Question 1"]["Option2"])
+print("Options3 : ",total_dict["Question 1"]["Option3"])
+
+answer = input("please enter anyone option: Options1/Options2/Options3: ")
+
+
+if answer == total_dict["Question 1"]["Correct answer"]:
+    print("Answer is correct for Question")
+else:
+    print("wrong answer")
 
 
 
